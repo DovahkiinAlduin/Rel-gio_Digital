@@ -1,13 +1,13 @@
 body{
-  background-color: black;
+    background-image: url(imagens/marvel.jpg);
 }
 
 .clock{
     position: absolute;
     top: 50%;
-    left: 50%;
+    right: 50%;
     transform: translatex(-50%) translateY(-50%);
-    color: aqua;
+    color:chartreuse;
     font-size: 60px;
     font-family: monospace;
     letter-spacing: 7px;
